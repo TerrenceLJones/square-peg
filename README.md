@@ -21,8 +21,11 @@ Square-Peg is a dating website that helps Electronics
 * Grunt
 * Jade
 * Less
+* Chai
+* Mochag
 * Tracuer
 * Various Other Node Modules
+
 
 ###Known Issues:
 
